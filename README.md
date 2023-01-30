@@ -1,1 +1,1 @@
-Executar \src\Demo\LocacaoControllerDemo.java para testes;
+Executar \src\Demo\LocacaoControllerDemo.java para teste.
